@@ -4,6 +4,10 @@ Versão Desktop
 
 ![](https://github.com/andersonv16/HTML5-e-CSS3/blob/master/assets/img/HZC%20_%20HOME.gif)
 
+Versão Mobile
+
+![](https://github.com/andersonv16/HTML5-e-CSS3/blob/master/assets/img/HZC%20_%20HOME_MOBILE.gif)
+
 # Guia de estilos
 
 Toda a estilização que será usada no projeto dentro do figma.
