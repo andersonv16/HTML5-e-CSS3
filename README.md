@@ -1,3 +1,6 @@
+
+![](https://github.com/HTML5-e-CSS3/assets/img/HZC _ HOME.gif)
+
 # Guia de estilos
 
 Toda a estilização que será usada no projeto dentro do figma.
