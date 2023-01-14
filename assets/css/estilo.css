@@ -198,7 +198,7 @@ left: 24px;
 .cartao__imagem--desktop{
     display: none;
 }
-@media screen and (min-width: 1440px){
+@media screen and (min-width: 1366px){
     body{
         display: grid;
         grid-template-columns: auto 1fr
