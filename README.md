@@ -1,5 +1,5 @@
 
-![](https://github.com/andersonv16/HTML5-e-CSS3/blob/master/assets/img/HZC%20_%20HOME.gif))
+![](https://github.com/andersonv16/HTML5-e-CSS3/blob/master/assets/img/HZC%20_%20HOME.gif)
 
 # Guia de estilos
 
